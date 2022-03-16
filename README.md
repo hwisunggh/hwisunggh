@@ -30,3 +30,5 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
+
+<img src="https://img.shields.io/badge/Swift-3776AB?style=for-the-badge&logo=Swift&logoColor=red">
