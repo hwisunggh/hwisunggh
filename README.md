@@ -1,4 +1,10 @@
 
+<div align=center>
+    
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heeeesung&theme=monokai)
+    
+</div>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -24,19 +30,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
-
-
-<br>
-
-<div align=center>
-    
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heeeesung&theme=monokai)
-    
-</div>
-
-
-
-
-
-
-
