@@ -32,5 +32,5 @@
 </p>
 
 <img src="https://img.shields.io/badge/Swift-red?style=for-the-badge&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Swift&logoColor=#6933FF">
+<img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=#6933FF">
 
