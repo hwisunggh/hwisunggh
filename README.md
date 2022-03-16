@@ -30,9 +30,7 @@
 
 <div align=center>
     
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heeeesung&theme=monokai)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heeeesung&theme=default)
     
 </div>
 
