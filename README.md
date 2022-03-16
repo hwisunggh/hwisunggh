@@ -31,6 +31,10 @@
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 
+<img src="https://img.shields.io/badge/HTML-FC4C02?style=for-the-badge&logo=HTML&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-0099FF?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/JAVASCRIPT-FABF15?style=for-the-badge&logo=JAVASCRIPT&logoColor=white">
+<img src="https://img.shields.io/badge/REACT-E5422B?style=for-the-badge&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-E5422B?style=for-the-badge&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=6933FF">
 
