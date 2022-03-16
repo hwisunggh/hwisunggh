@@ -1,7 +1,4 @@
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsexyseunghwan&count_bg=%2341C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23FFFFFF&title=hits%28%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98%29&edge_flat=false"/></a>
-
-
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -33,11 +30,8 @@
 
 <h2 align="center">:scroll:   GIT History</h2>
 <div align=center>
-        
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heeeesung&theme=monokai)  
-        
 </div>
-
 <br>
 
 
