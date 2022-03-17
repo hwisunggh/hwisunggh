@@ -6,3 +6,5 @@
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=E78A3E">
     <img src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=6933FF">
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heeeesung&count_private=true)
