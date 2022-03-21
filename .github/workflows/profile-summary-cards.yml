@@ -15,5 +15,6 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN}}
+          TIMEZONE: Asia/Seoul
         with:
           USERNAME: ${{ github.repository_owner }}
